@@ -29,6 +29,10 @@
 	margin-top: 5px;
 }
 
+button {
+	cursor: pointer;
+}
+
 /* --- Navigation --- */
 
 nav {
@@ -386,7 +390,7 @@ button {
 }
 
 .post {
-	width: 98%;
+	width: 100%;
 	margin: 70px auto 0;
 }
 
